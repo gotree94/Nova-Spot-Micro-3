@@ -1,2 +1,3 @@
-# Nova-Spot-Micro-3
-Nova Spot Micro 3
+# NovaSM3
+
+https://novaspotmicro.com/
