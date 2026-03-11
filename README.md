@@ -54,3 +54,13 @@ https://novaspotmicro.com/
 기존에는 SplittingOff()로 모든 면을 부드럽게 보간해서 엣지가 뭉개졌습니다. 이제 30도 이상 꺾이는 면은 법선을 분리해서 날카로운 엣지로 렌더링합니다. Creality처럼 평면은 매끈하고 모서리는 선명하게 보입니다.
 ② 엣지 라인 오버레이
 반투명 검정 와이어프레임을 표면 위에 얇게 덮어씌워 면과 면의 경계가 더 뚜렷하게 보이도록 했습니다. (와이어프레임 버튼 ON 시 자동으로 숨겨집니다)
+
+
+<img width="1282" height="832" alt="stl_viewer1" src="https://github.com/user-attachments/assets/401b3847-b0ac-4eb5-911d-7c8233babbdc" />
+<br>
+<img width="1282" height="832" alt="stl_viewer2" src="https://github.com/user-attachments/assets/f1fc8641-e526-43f0-b84b-0cafb3f1cdd7" />
+<br>
+
+
+
+
