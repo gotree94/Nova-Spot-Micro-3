@@ -60,7 +60,6 @@ https://novaspotmicro.com/
 <br>
 <img width="1282" height="832" alt="stl_viewer2" src="https://github.com/user-attachments/assets/f1fc8641-e526-43f0-b84b-0cafb3f1cdd7" />
 <br>
-
-
-
+<img width="1276" height="1040" alt="Creality" src="https://github.com/user-attachments/assets/e40ac7e0-f25a-4a75-a724-4cfa947672bb" />
+<br>
 
