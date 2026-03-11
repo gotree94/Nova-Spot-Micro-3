@@ -6,7 +6,8 @@ https://novaspotmicro.com/
 
 ## STL File List 
 
-<img width="1086" height="698" alt="011" src="https://github.com/user-attachments/assets/bb1de2ad-5a5c-4b5c-bd01-008ac398449e" />
+<img width="1086" height="698" alt="011" src="https://github.com/user-attachments/assets/ede19671-2d99-4cbc-9728-d81b6f90d875" />
+
 
  * SM3_CalibrationTool.stl						
  * SM3_Cover_BottomFront.stl					
